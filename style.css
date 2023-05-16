@@ -1,0 +1,258 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+.header{
+    background-color:#0B2447;
+    padding: 8px 16px;
+    margin-bottom: 75px;
+}
+.header img{
+    width: 120px;
+    height: 75px;
+    
+    margin-top: -75px;
+}
+
+
+
+.header li:hover{
+    background-color: #EA5455;
+    transition: 0.5s;
+    
+    
+}
+.footer
+{
+background-color: #0B2447;
+text-align: right;
+padding-right: 15px;
+height: 75px;
+}
+.footer div i
+{
+padding-right: 5px;
+color: #98DFD6;
+padding-top: 30px;
+}
+.footer div li
+{
+display: inline-block;
+}
+.footer div a
+{
+text-decoration: none;
+color: #98DFD6;
+padding-top: 30px;
+
+}
+
+
+#nav{
+   width:calc(100% - 80px);
+    text-align: right;
+}
+.nav_li{
+display: inline-block;
+margin: 0,10px;
+margin-top: 25px;
+
+
+
+}
+.nav_li a { 
+    text-decoration: none;
+    color: #98DFD6;
+    margin-right: 10px;
+    
+}
+.logo{
+    display: flex;
+    
+}
+.logo img{ 
+    border-radius: 50%;
+    border: 2px black solid;
+    
+}
+.kolon{
+    display: inline-block;width: 47%;
+    padding: 16px;
+    margin: 8px ;
+    color: blueviolet;
+    background-color: aqua;
+    
+}
+.ilktanitim{
+
+
+    text-align: center;
+    
+}
+.ilktanitim img{
+    border-radius: 50%;
+}
+.mainpage{
+    
+    padding: 12px;
+    width: 100%;
+    padding: -20px;
+}
+.team_header  {
+    
+    display: flex;
+    padding-right: 0px;
+    margin-right: 0px 0px 0px 0px ;
+    
+}
+.teamselection  {
+    background-color: rgb(238, 255, 0);
+    text-align: center;
+}
+.tarihce_header{
+    text-align: center;
+    color: rgb(238, 11, 11);
+    font-size: 40px;
+    background-color: yellow;
+}
+.teamselection{
+    list-style-type: none;
+    background-color: yellow;
+    width: 100%;
+    margin-top: -5px;
+   
+    
+    
+}
+.teamselection li{
+    padding: 20px;
+    width: 150px;
+   
+    margin-left: -48px;
+    display: inline-block;
+    margin-right: 30px;
+    
+    
+    
+}
+.teamselection li:hover{
+    background-color: rgb(220, 50, 50);
+    transition: 0.9s;
+    
+    
+}
+.teamselection li a {
+    text-decoration: none;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+ .teamselection  i{
+    padding-right: 50px;
+ }
+ .tarihce{
+    background-color:#FFB266;
+    margin-top: -20px;
+    margin-bottom: -20px;
+ }
+ .futbolcusırala{
+    display: inline-block ;
+    border: 4px inset #228B22 ;
+     margin-top: 75px;
+    }
+.futbolcugenel{
+    background-color:#FFE4C4;
+    margin-top: -20px;
+}
+.cvyanyana{
+    display: inline-block;  width: 47% ;
+    
+}
+.şehiranasayfalink a{
+color: #F38BA0;
+
+}
+
+.şehrimsection{
+    margin-top: -75px;
+    margin-bottom: -18px;
+}
+.şehrimsection p,h5{
+    padding-right: 10px;
+}
+.şehrimsection a:hover{
+    background-color: #FBFFB1;
+    transition: 0.7s;
+    
+    
+}
+.doğalgüzellikler{
+    background-color: #DAF5FF;
+    padding: 35px;
+    
+}
+.turistikyerler{
+    background-color: #DAF5FF;
+    padding: 35px;
+    
+}
+.mersinyemekler{
+    background-color: lightgreen;
+    padding: 35px;
+}
+.ilgialanlaribody{
+    background-color:#FFEAD2 ;
+}
+.ilgialanlariheader{
+
+    background-color: #FFEAD2;
+    margin-top: -70px;
+    height: 100px;
+}
+.ilgialanlariheader h4{
+
+    color: #8294C4;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 50px;
+}
+.ilgialanlarisection{
+    margin-top: -17px;
+    background-color:#FFEAD2 ;
+}
+.ilgialanlarisection li{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:20px;
+}
+.ilgialanlarisection i{
+    padding-right: 10px;
+}
+.ilgialanlarisection2 img{
+    width: 32%;
+    display: inline-block;
+    padding-left: 25px;
+    padding-top: 35px;
+   
+
+}
+
+
+.kayanresim{
+    
+    
+   
+}
+.kayanresim img{
+    
+   padding-right: 25px;
+   width: 300px;
+   height: 400px;
+    
+}
+
+
+ 
+
